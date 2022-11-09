@@ -1,0 +1,8 @@
+C:\Users\kivae\source\repos\Second HW\bin\Debug\Second HW.exe.config
+C:\Users\kivae\source\repos\Second HW\bin\Debug\Second HW.exe
+C:\Users\kivae\source\repos\Second HW\bin\Debug\Second HW.pdb
+C:\Users\kivae\source\repos\Second HW\obj\Debug\Second HW.csproj.AssemblyReference.cache
+C:\Users\kivae\source\repos\Second HW\obj\Debug\Second HW.csproj.SuggestedBindingRedirects.cache
+C:\Users\kivae\source\repos\Second HW\obj\Debug\Second HW.csproj.CoreCompileInputs.cache
+C:\Users\kivae\source\repos\Second HW\obj\Debug\Second HW.exe
+C:\Users\kivae\source\repos\Second HW\obj\Debug\Second HW.pdb
